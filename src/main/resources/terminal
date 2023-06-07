@@ -1,0 +1,2 @@
+
+    spring init --dependencies=web,data-mysql --package-name=com.fitness.tracker fitness-tracker
